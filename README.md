@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 24, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Joseph Fernandez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The purpose of this assignment is to create a tax calculator based on different incomes and tax brackets.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jf16m.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned to make decisions using control statements.)
+2. (Learned to store values in an array.)
+3. (Learned break, continue, infinite loop.)
